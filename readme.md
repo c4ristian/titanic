@@ -2,7 +2,7 @@
 
 ## What is it?
 This library provides notebooks that train machine learning models to predict the 
-probability of survival of [Titanic](https://en.wikipedia.org/wiki/Titanic) passengers. 
+probability of survival for [Titanic](https://en.wikipedia.org/wiki/Titanic) passengers. 
 The library is used as an example in the course "Data Analytics with Python" at the Nuremberg Institute 
 of Technology ([Technische Hochshule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/)).
 
