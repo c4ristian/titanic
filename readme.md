@@ -4,7 +4,7 @@
 This library provides notebooks that train machine learning models to predict the 
 probability of survival for [Titanic](https://en.wikipedia.org/wiki/Titanic) passengers. 
 The library is used as an example in the course "Data Analytics with Python" at the Nuremberg Institute 
-of Technology ([Technische Hochshule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/)).
+of Technology ([Technische Hochshule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/en/)).
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
