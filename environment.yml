@@ -1,0 +1,16 @@
+# YAML for setting up a conda environment for
+# the Titanic library
+name: titanic
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - python>=3.8.2
+  - pytest
+  - pytest-cov
+  - pylint
+  - jupyter
+  - jupytext
+  - scikit-learn
